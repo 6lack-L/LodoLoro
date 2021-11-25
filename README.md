@@ -18,6 +18,7 @@ Fun fact: I love to draw and create music/beats
 ##CONNECT WITH ME!
 
 https://twitter.com/LoroLodo
+
 https://www.instagram.com/lodo_loro/
 
 
