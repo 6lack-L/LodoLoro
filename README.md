@@ -12,7 +12,7 @@ I'm looking to collaborate with other content creators
 
 Goals: Contribute more to Open Source projects
 
-Fun fact: I love to draw and create music/beats
+Fun fact: I love to create music and produce beats
 
 
 ##CONNECT WITH ME!
