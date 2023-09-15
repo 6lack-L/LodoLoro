@@ -2,13 +2,13 @@
 Lodo Loro(portfolio)
 
 Hi there, I'm Lodo 
-## I'm a student, music producer, and Developer, 
+## student, music producer, and Developer, 
 
-I'm currently working on a api image generator!
+NFT Genorator now Launched!
 
-I'm currently learning everything python
+full Stack developer
 
-I'm looking to collaborate with other content creators
+I'm looking to collaborate with other creators
 
 Goals: Contribute more to Open Source projects
 
@@ -17,7 +17,7 @@ Fun fact: I love to create music and produce beats
 
 ##CONNECT WITH ME!
 
-https://twitter.com/LoroLodo
+https://www.linkedin.com/in/lodo-loro-330a9a210/
 
 https://www.instagram.com/lodo_loro/
 
